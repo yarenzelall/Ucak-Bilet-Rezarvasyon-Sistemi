@@ -3,8 +3,8 @@
 
 ### Uçak Bilet Rezarvasyon Sistemi Nedir?
 ✈️ Rota, tarih ve saat gibi uçuş bilgilerini tutar. <br>
-✈️ Yolcuya ait ad soyad, TC. kimlik numarası ve telefon bilgilerini tutar.
-✈️ "Kaydet" butonuna basılırsa bilgiler listede gösterilir.
+✈️ Yolcuya ait ad soyad, TC. kimlik numarası ve telefon bilgilerini tutar. <br>
+✈️ "Kaydet" butonuna basılırsa bilgiler listede gösterilir.<br>
 ✈️ " <> " butonuna basılırsa rota yön değiştirir.
 
 <hr>
